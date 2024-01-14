@@ -6,14 +6,14 @@
 
 Я начинающий DevOps специалист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
-🌍 Я живу в Домодедово
+- 🌍 Живу в Домодедово
 
 - :zap: Являюсь Linux администратором.
 
 - :seedling: Завершил курсы по DevOps от Skillbox.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vuekot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vuekot) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:antonvjatkin@gmail.com)
-  [![Mail.ru](https://img.shields.io/badge/-Mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:antonxa0994@mail.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vuekot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vuekot) [![Gmail Badge](https://img.shields.io/badge/-Gmail-green?style=flat&logo=Gmail&logoColor=white)](mailto:antonvjatkin@gmail.com)
+  [![Mail.ru](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:antonxa0994@mail.ru)
 
 ---
 
