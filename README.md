@@ -29,8 +29,11 @@
   </div>
 
 ---
+
 ## My Skill Set
-<table style="border:2px solid red"><tr><td valign="top" widths="33%">
+
+<table style="border:2px solid red">
+<tr><td valign="top" widths="33%">
 
 ### 💻 Web:
 
@@ -44,8 +47,9 @@
 	<!--<img src="https://github.com/devicons/devicon/tree/master/icons/go" title="go" alt="go" width="40" height="40"/>&nbsp;-->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
+</td>
 
-</hd><td valign="top" widths="33%">
+<td valign="top" widths="33%">
 
 ### 🛠 Администрирование / DevOps:
 
@@ -63,10 +67,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-</div>
 
-</hd><td valign="top" widths="33%">
-</td></br>
+</div>
+</td>
+
+<td valign="top" widths="33%"></td>
+</br>
 </table>
 
 <!-- ### 💻 Пройденные курсы:
