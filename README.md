@@ -30,7 +30,7 @@
 
 ---
 ## My Skill Set
-<table><tr><td valign="top" widths="33%">
+<table style="border:2px solid red"><tr><td valign="top" widths="33%">
 
 ### 💻 Web:
 
