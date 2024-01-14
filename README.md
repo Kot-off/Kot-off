@@ -32,7 +32,7 @@
 
 ## My Skill Set
 
-<table style="border:2px solid red">
+<table style="border: 2px solid red">
 <tr><td valign="top" widths="33%">
 
 ### 💻 Web:
@@ -71,7 +71,7 @@
 </div>
 </td>
 
-<td valign="top" widths="33%"></td>
+<!--<td valign="top" widths="33%"></td> -->
 </br>
 </table>
 
