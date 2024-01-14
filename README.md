@@ -29,6 +29,8 @@
   </div>
 
 ---
+## My Skill Set
+<table><tr><td valign="top" widths="33%">
 
 ### 💻 Web:
 
@@ -40,12 +42,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 	<!--<img src="https://github.com/devicons/devicon/tree/master/icons/go" title="go" alt="go" width="40" height="40"/>&nbsp;-->
-	
-	
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
----
+</hd><td valign="top" widths="33%">
 
 ### 🛠 Администрирование / DevOps:
 
@@ -62,9 +62,12 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
 </div>
+
+</hd><td valign="top" widths="33%">
+</td></br>
+</table>
 
 <!-- ### 💻 Пройденные курсы:
 
