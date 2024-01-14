@@ -4,11 +4,9 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий DevOps специалист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Я начинающий DevOps специалист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+🌍 Я живу в Домодедово
 
 - :zap: Являюсь Linux администратором.
 
