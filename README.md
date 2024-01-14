@@ -19,7 +19,7 @@
 
 ## My Skill Set
 
-<table style="border: 2px solid red">
+<table style="border: 2px solid red" width="100%">
 <tr><td valign="top" widths="33%">
 
 ### 💻 Web:
