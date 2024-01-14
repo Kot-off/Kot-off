@@ -17,19 +17,6 @@
 
 ---
 
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/vuekot" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/vue_kot" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-
----
-
 ## My Skill Set
 
 <table style="border: 2px solid red">
@@ -74,6 +61,19 @@
 <!--<td valign="top" widths="33%"></td> -->
 </br>
 </table>
+
+---
+
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://t.me/vuekot" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/vue_kot" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
 
 <!-- ### 💻 Пройденные курсы:
 
