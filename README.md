@@ -8,11 +8,11 @@
 
 - 🌍 Живу в Домодедово
 
-- :zap: Являюсь Linux администратором.
+- :zap: На данный момент работаю Linux/Windows администратором. Занимаюсь сопровождением веб-сайтов, а так же различных информационных систем таких. CRM(Bitrix), GIS и т.д.
 
 - :seedling: Завершил курсы по DevOps от Skillbox.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vuekot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vuekot) [![Gmail Badge](https://img.shields.io/badge/-Gmail-green?style=flat&logo=Gmail&logoColor=white)](mailto:antonvjatkin@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vuekot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vuekot) [![Gmail Badge](https://img.shields.io/badge/-Gmail-green?style=flat&logo=Gmail&logoColor=white)](mailto:antonvjatkin09@gmail.com)
   [![Mail.ru](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:antonxa0994@mail.ru)
 
 ---
