@@ -19,7 +19,7 @@
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-090909?style=for-the-badge&logo=windows)
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnu-bash)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=go&logoColor=white)
 
 ### CI/CD
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-090909?style=for-the-badge&logo=gitlab)
