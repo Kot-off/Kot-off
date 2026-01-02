@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я начинающий DevOps-инженер.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Я начинающий DevOps-инженер.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. <br>
 Увлекаюсь автоматизацией процессов, контейнеризацией и построением надежных CI/CD пайплайнов.
 
 - 📫 **Telegram:** [@vuekot](https://t.me/vuekot)
