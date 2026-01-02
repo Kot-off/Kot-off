@@ -52,6 +52,6 @@
 
 ## 📈 Статистика GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kot-off&show_icons=true&theme=dark)](https://github.com/Kot-off)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kot-off&layout=compact&theme=dark)](https://github.com/Kot-off)
