@@ -4,7 +4,8 @@
 
 ### 👨‍💻 Обо мне:
 
-Я начинающий DevOps-инженер. Увлекаюсь автоматизацией процессов, контейнеризацией и построением надежных CI/CD пайплайнов.
+Я начинающий DevOps-инженер.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Увлекаюсь автоматизацией процессов, контейнеризацией и построением надежных CI/CD пайплайнов.
 
 - 📫 **Telegram:** [@vuekot](https://t.me/vuekot)
 - 💼 **GitHub:** [Kot-off](https://github.com/Kot-off)
@@ -14,39 +15,40 @@
 ## 🛠️ Стек технологий
 
 ### Общее
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-090909?style=for-the-badge&logo=windows)
+![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnu-bash)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### CI/CD
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-090909?style=for-the-badge&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=jenkins)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=gitlab)
 
 ### Контейнеризация и оркестрация
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 
 ### Конфигурационный менеджмент и IaC
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-090909?style=for-the-badge&logo=ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-090909?style=for-the-badge&logo=terraform)
 
 ### Мониторинг и логирование
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-090909?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-090909?style=for-the-badge&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/-Kibana-090909?style=for-the-badge&logo=kibana)
 
 ### Веб-серверы и сети
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
 
 ### Базы данных
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 
 ---
 
