@@ -44,7 +44,7 @@
 
 ### Веб-серверы и сети
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=apachekafka)
 
 ### Базы данных
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
