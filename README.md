@@ -22,7 +22,6 @@
 ![Go](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=go&logoColor=white)
 
 ### CI/CD
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-090909?style=for-the-badge&logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=jenkins)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
